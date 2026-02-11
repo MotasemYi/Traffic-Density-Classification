@@ -166,3 +166,4 @@ PERFORMANCE COMPARISON
 Results show that the deep learning model significantly outperforms the classical ML model in processing complex visual data.
 
 Accuracy (%) | Training Time (Minutes)
+The CNN achieved approximately 92% accuracy, clearly outperforming the Random Forest model.
